@@ -2,7 +2,7 @@
 ## An almost fully grown watchdog for node.js
 
 This is a simple watchdog for node.js. It has no external dependencies and runs within the node process itself.
-This is not meant to replace something like an external health check service or a more advanced tool like [foereverjs](https://github.com/foreverjs/forever).
+This is not meant to replace something like an external health check service or a more advanced tool like [foreverjs](https://github.com/foreverjs/forever).
 
 But sometimes you just need to keep an eye out on a simple worker script and make sure it is stil crunching data.
 
