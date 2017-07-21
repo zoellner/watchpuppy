@@ -1,0 +1,23 @@
+{
+  "name": "watchpuppy",
+  "version": "0.0.1",
+  "description": "An almost fully grown watchdog for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoellner/watchpuppy.git"
+  },
+  "keywords": [
+    "watchdog",
+    "keep-alive"
+  ],
+  "author": "Andreas Zoellner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zoellner/watchpuppy/issues"
+  },
+  "homepage": "https://github.com/zoellner/watchpuppy#readme"
+}
