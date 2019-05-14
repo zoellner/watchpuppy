@@ -1,6 +1,6 @@
 {
   "name": "watchpuppy",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "An almost fully grown watchdog for node.js",
   "main": "index.js",
   "scripts": {
