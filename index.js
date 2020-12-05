@@ -18,7 +18,7 @@ class Watchpuppy extends EventEmitter {
 
     this.minPing = options.minPing || 1;
     this.checkInterval = options.checkInterval || 10000;
-    this.stopOnError = options.stopOnError || true;
+    this.stopOnError = options.stopOnError !== false;
 
     //internal properties
     this.counter = 0;
